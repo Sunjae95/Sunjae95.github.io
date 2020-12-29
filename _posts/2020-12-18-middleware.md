@@ -17,7 +17,7 @@ tags: [node,middleware]     # TAG names should always be lowercase
 - 스택에 다음 미들웨어를 호출
 
 #### 호출요소
-![ex](/assets/img/sample/middlewarefunction.JPG)<br>
+![Desktop View](/assets/img/sample/middlewarefunction.JPG)<br>
 
 ### 간단한 로그 메시지 인쇄 호출
 ```javascript
@@ -51,5 +51,5 @@ app.listen(3000,(req,res)=>{
 
 ---
 >**참조**<br>
-><https://expressjs.com/ko/guide/writing-middleware.html>
+><https://expressjs.com/ko/guide/writing-middleware.html><br>
 ><https://psyhm.tistory.com/8>
