@@ -10,5 +10,5 @@ order: 4
 # MIT License
 ---
 
+공부하기 위한 블로그입니다. 그날 공부한 내용을 적습니다!
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
