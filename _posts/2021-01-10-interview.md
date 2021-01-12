@@ -1,5 +1,5 @@
 ---
-title: 면접
+title: 공부
 date: 2021-01-10 22:23:00 +/-TTTT
 categories: [Interview, soket]
 tags: [soket, http]     # TAG names should always be lowercase
