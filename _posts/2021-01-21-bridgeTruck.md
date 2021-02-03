@@ -32,7 +32,8 @@ solution 함수의 매개변수로 다리 길이 bridge_length, 다리가 견딜
 - 모든 트럭의 무게는 1 이상 weight 이하입니다.
 
 
-### 입출력 예
+### 입출력 예  
+
 |bridge_length|	weight|	truck_weights|	return|
 |:-:|:-:|:-:|:-:|
 |2|	10|	[7,4,5,6]|	8|
