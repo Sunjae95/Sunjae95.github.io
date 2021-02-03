@@ -84,7 +84,7 @@ function solution(bridge_length, weight, truck_weights) {
 5. 완료한 트럭 무게와 대기 트럭 무게를 비교하여 같으면 `break`
 # 결과
 ![다리위의트럭결과](/assets\img\algorithm\bridgeTruck.PNG)  
-이 문제를 하면서 가장 어려웠던 것이 while 문을 어떻게 반복할까를 많이 고민했다. 항상 그랬지만 문제를 차분하고 꼼꼼하게 읽어보면 반복문 코딩 실수를 덜게 된다는 것을 느꼈다.
+이 문제를 하면서 가장 어려웠던 것이 while 문을 어떻게 반복 하는것을 많이 고민했다. 항상 그랬지만 문제를 차분하고 꼼꼼하게 읽어보면 반복문 코딩 실수를 덜게 된다는 것을 느꼈다.
 
 >**참조**<br>
 ><https://programmers.co.kr/learn/courses/30/lessons/42583>
