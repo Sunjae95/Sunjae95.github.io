@@ -1,4 +1,9 @@
-# VIF 프로젝트 KPT 회고
+---
+title: TIL 26일차
+date: 2021-10-05 00:00:00 +/-TTTT
+categories: [데브코스, TIL]
+tags: [programmers, frontend, devcourse, vue] # TAG names should always be lowercase
+---
 
 ## Keep
 
