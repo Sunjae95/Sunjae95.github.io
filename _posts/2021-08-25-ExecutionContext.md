@@ -1,8 +1,8 @@
 ---
 title: Execution Context(실행 컨텍스트)
 date: 2021-08-24 00:00:00 +/-TTTT
-categories: [데브코스, Article]
-tags: [programmers, frontend, devcourse, js] # TAG names should always be lowercase
+categories: [Frontend, JavaScript]
+tags: [excutioncontext, frontend, study, javascript] # TAG names should always be lowercase
 ---
 
 ## Execution Context(실행 컨텍스트)란?
